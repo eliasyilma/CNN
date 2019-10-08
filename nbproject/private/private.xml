@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/CASE/Documents/NetBeansProjects/CNN/src/cnn/CNN.java</file>
+            <file>file:/C:/Users/CASE/Documents/NetBeansProjects/CNN/src/cnn/MaxPool.java</file>
+            <file>file:/C:/Users/CASE/Documents/NetBeansProjects/CNN/src/cnn/Convolution.java</file>
+            <file>file:/C:/Users/CASE/Documents/NetBeansProjects/CNN/src/cnn/SoftMax.java</file>
+        </group>
+    </open-files>
+</project-private>
