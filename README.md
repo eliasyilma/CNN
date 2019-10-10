@@ -1,5 +1,6 @@
 # CNN
 A Simple Convolutional Neural Network based on the tutorial by Victor Zhou at
+ 
  https://victorzhou.com/blog/intro-to-cnns-part-1/
  https://victorzhou.com/blog/intro-to-cnns-part-2/
  
@@ -13,4 +14,9 @@ A Simple Convolutional Neural Network based on the tutorial by Victor Zhou at
  -the output layer that implements cross-entropy loss.
  
  # USAGE
- Import the project into your favorite IDE and run the CNN.java file.
+ 1. Import the project into your favorite IDE.
+ 
+ 2. Go to the data folder and unzip MNIST.zip into that same destination folder.(Use 'extract here...')
+ (Your project directory should read /CNN/data/data/mnist_png/mnist_png/training/)
+ 
+ 3. run the CNN.java file.
