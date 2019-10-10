@@ -7,11 +7,7 @@ A Simple Convolutional Neural Network based on the tutorial by Victor Zhou at
  The network classifies digits from the MNIST digits database with an average
  accuracy of about 90%.
 
- The CNN consists of four layers namely: 
- -the convolution layer(Convolution.java) 
- -the maximum pooling layer (MaxPool.java) 
- -the softmax activation layer (SoftMax.java) 
- -the output layer that implements cross-entropy loss.
+ The CNN consists of four layers namely: the convolution layer(Convolution.java), the maximum pooling layer (MaxPool.java), the softmax  activation layer (SoftMax.java), and the output layer that implements cross-entropy loss.
  
  # USAGE
  1. Import the project into your favorite IDE.
