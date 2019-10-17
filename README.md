@@ -2,6 +2,7 @@
 A Simple Convolutional Neural Network based on the tutorial by Victor Zhou at
  
  https://victorzhou.com/blog/intro-to-cnns-part-1/
+ 
  https://victorzhou.com/blog/intro-to-cnns-part-2/
  
  The network classifies digits from the MNIST digits database with an average
